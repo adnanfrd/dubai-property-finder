@@ -59,7 +59,7 @@ const FinalCTA = () => {
             </div>
             
             <div className="mt-8 pt-6 border-t border-blue-800 text-center text-blue-300">
-              <p>&copy; 2024 Luxora Dubai. All rights reserved. | Licensed Real Estate Broker</p>
+              <p>&copy; 2025 Luxora Dubai. All rights reserved. | Developed by <span className="font-bold text-amber-400 mb-2"> M Adnan Fareed </span> </p>
             </div>
           </div>
         </div>
