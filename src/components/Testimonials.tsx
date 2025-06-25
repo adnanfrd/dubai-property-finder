@@ -6,7 +6,7 @@ const Testimonials = () => {
       text: "Luxora Dubai helped me buy an apartment in Business Bay and even took care of the legal paperwork. Seamless experience!",
       author: "Sarah Mitchell",
       location: "United Kingdom",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     },
     {
       rating: 5,
